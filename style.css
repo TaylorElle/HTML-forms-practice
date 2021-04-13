@@ -1,0 +1,23 @@
+main {
+  padding: 20px 0;
+}
+
+section {
+  margin-bottom: 100px;
+}
+
+main h1 {
+  margin: 0 10px;
+  border-bottom: 1px solid gray;
+}
+
+main h2 {
+  margin: 12px 10px;
+  border-bottom: 1px solid lightgray;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  margin-bottom: 20px;
+}
